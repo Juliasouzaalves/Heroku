@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../Downloads/csstelalogin.css" rel="stylesheet">
+    <link href="../desktop/site/csstelalogin.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/21b4e8094d.js" crossorigin="anonymous"> </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
